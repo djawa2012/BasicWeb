@@ -1,0 +1,4 @@
+module.exports = {
+    make: "",
+    model: ""
+};
