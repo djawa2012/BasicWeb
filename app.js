@@ -1,8 +1,3 @@
-/**
- * Created by danishjawa on 11/2/15.
- */
-console.log("basic web 123");
-
 function User (firstName, lastName) {
     this.firstName = firstName;
     this.lastName = lastName;
